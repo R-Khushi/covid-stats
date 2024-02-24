@@ -3,7 +3,7 @@ import Covnews from './components/Covnews';
 import Covstat from './components/Covstat';
 
 function App() {
-  
+  //function
   return (
     <>
       <Covstat/>
